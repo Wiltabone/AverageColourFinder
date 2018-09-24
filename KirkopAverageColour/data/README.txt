@@ -1,0 +1,1 @@
+include images named in the format: img00.JPG, img01.JPG etc ..
